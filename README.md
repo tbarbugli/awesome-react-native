@@ -632,6 +632,7 @@ Components and native modules.
 * [react-native-yynavigator ★1](https://github.com/yiyangest/react-native-yynavigator) - custom navigation bar for react-native
 * [react-native-invoke-app ★0](https://github.com/vicke4/react-native-invoke-app) - Bring React Native App to foreground from Headless JS
 * [react-native-keyboard-sticky-view ★0](https://github.com/melihberberolu/React-Native-Keyboard-Sticky-View) - Keyboar Sticky View with animation and renderProps
+* [react-native-activity-feed](https://github.com/GetStream/react-native-activity-feed) - React Native Components for Building Activity Feeds
 
 #### Navigation/Routing Articles
 
